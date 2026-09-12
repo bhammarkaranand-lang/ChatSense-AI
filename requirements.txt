@@ -1,0 +1,6 @@
+[requirements.txt](https://github.com/user-attachments/files/32140539/requirements.txt)
+streamlit>=1.35
+pandas>=2.0
+numpy>=1.26
+sentence-transformers>=3.0
+torch>=2.2
